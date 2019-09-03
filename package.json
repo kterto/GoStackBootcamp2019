@@ -1,0 +1,8 @@
+{
+  "name": "GoStackBootcamp2019",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kterto/GoStackBootcamp2019.git",
+  "author": "Kaina Terto <kterto@capyba.com>",
+  "license": "MIT"
+}
