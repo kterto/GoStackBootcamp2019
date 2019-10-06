@@ -37,7 +37,7 @@ export default function Home() {
   }, []);
 
   function handleAddProduct(id) {
-    dispatch.apply(CartActions.addToCartRequest(id));
+    dispatch(CartActions.addToCartRequest(id));
   }
 
   return (
