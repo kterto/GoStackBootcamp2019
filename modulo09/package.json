@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "history": "^4.10.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0"
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "reactotron-react-js": "^3.3.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -30,6 +33,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
+    "babel-plugin-root-import": "^6.4.1",
     "eslint": "^6.5.1",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-config-prettier": "^6.4.0",
